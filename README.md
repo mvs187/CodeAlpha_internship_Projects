@@ -1,0 +1,3 @@
+Project1_Titanic Data Analysis
+Project2_Stock Prediction
+Project3_Predictive modelling on hotel bookings
